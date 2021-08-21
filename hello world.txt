@@ -7,6 +7,8 @@ class main{
           System.out.println("Hello world"); 
 
         // updated by bunnyMoo!!!
+        
+        
     } 
 
 } 
